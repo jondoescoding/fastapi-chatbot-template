@@ -1,7 +1,5 @@
 # Chatbot Application Template
 
-This template provides a skeleton structure for quickly setting up a new chatbot application with frontend and backend components. It follows a RAG (Retrieval-Augmented Generation) architecture optimized for chat applications.
-
 ## Project Overview
 
 This template is designed for building chatbot applications that can:
